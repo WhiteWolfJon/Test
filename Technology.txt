@@ -7,5 +7,9 @@ Jquery
 DOJO
 BootStrap
 
+Python
+C++
+C#
+
 
 Thank you:)
